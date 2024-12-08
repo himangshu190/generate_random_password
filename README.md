@@ -1,5 +1,5 @@
 # generate_random_password
-clik the link 
+click the link 
 
 https://himangshu190.github.io/generate_random_password/
 
